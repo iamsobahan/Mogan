@@ -1,0 +1,3 @@
+Rahmat-> nav-part,banner-part,blogs-part.
+Subhan-> service-part,portfolio,testimonial.
+Rafsan-> about-part,pricing-plan,footer-part.
